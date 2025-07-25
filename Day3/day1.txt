@@ -1,0 +1,6 @@
+int n;
+printf("Enter the alphabet: ");
+scanf("%d", %s);
+
+for i=0;i<n;i++
+	printf(stoi(
